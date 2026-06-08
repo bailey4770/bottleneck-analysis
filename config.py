@@ -21,5 +21,6 @@ COLS = [
     "GPU Wait (avg) [ms]",
     "CPU (Tctl/Tdie) [°C]",
     "GPU Thermal Diode [°C]",
+    "GPU Clock [MHz]",
     "Average Effective Clock [MHz]",
 ]
